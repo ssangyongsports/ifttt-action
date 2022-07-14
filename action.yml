@@ -6,7 +6,7 @@ inputs:
         description: The name of the event
         required: true
     key:
-        description: Your secret IFTTT webhooks key
+        description:https://portal.azure.com/?Microsoft_Azure_Education_correlationId=eda2736ec8b049f781fca74f518938fb#@ssangyongsports1outlook.onmicrosoft.com/resource/subscriptions/e3ab08ef-4ddb-4877-bfc3-1d48d887c69f/resourcegroups/ssangyongsport_group/providers/Microsoft.Web/staticSites/hom/customDomains
         required: true
 runs:
     using: node12
